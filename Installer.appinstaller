@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="file:///C:/Users/Ian Mark/source/repos/CaseManagementSystem/Installer.appinstaller"
+	Version="1.0.33.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="1649c20a-3e2d-4684-8410-9ee7d3411031"
+		Version="1.0.33.0"
+		Publisher="CN=Ian Mark"
+		Uri="file:///C:/Users/Ian Mark/source/repos/CaseManagementSystem/Installer_1.0.33.0_Test/Installer_1.0.33.0_x86_x64.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
